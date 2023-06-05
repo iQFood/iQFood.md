@@ -1,5 +1,3 @@
-# iQFood.md
-
 
 ### 🏙️  Mission Statement 
 We are creating iQFood due to the numerous reports of individuals who have digestive issues that ultimately cause them to get cancer and a higher risk of passing away. By educating the public on the dangerous chemicals present in our food, identifying healthier alternatives, and helping to create grocery lists, our users can achieve a longer life span.
